@@ -2,6 +2,8 @@
 
 [![NPM](https://img.shields.io/npm/v/voidge.svg)](https://www.npmjs.com/package/voidge)
 
+Voidge on the terminal.
+
 ![NPM](https://github.com/alvarocastro/voidge/raw/master/example.png)
 
 - [Install](#install)

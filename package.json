@@ -1,7 +1,7 @@
 {
   "name": "voidge",
   "version": "1.0.4",
-  "description": "Voidge",
+  "description": "Voidge on the terminal",
   "main": "index.js",
   "bin": {
     "voidge": "./index.js"
