@@ -1,10 +1,14 @@
 {
   "name": "voidge",
-  "version": "1.0.5",
+  "version": "1.0.6",
   "description": "Voidge on the terminal",
   "main": "index.js",
   "bin": {
     "voidge": "./index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/alvarocastro/voidge.git"
   },
   "keywords": [
     "voidge",
@@ -12,6 +16,10 @@
   ],
   "author": "Alvaro Castro",
   "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/alvarocastro/voidge/issues"
+  },
+  "homepage": "https://github.com/alvarocastro/voidge#readme",
   "dependencies": {
     "asciify-image": "^0.1.8"
   }
